@@ -1,0 +1,10 @@
+<ul>
+    <h4>Reviews</h4>
+    <li ng-repeat="review in product.reviews">
+        <blockquote>
+            <strong>{{review.stars}} Stars</strong>
+            {{review.body}}
+            <cite class="clearfix">-{{review.author}} created on {{review.createdOn | date}}</cite>
+        </blockquote>
+    </li>
+</ul>

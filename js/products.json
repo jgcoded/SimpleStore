@@ -1,0 +1,41 @@
+[{
+	"name": "Assorted Beverages",
+	"price": 3.14,
+	"description": "Your favorite beverages in a convenient package.",
+	"canPurchase": true,
+	"soldOut": false,
+	"images": [
+		"images/waterbottle.jpeg",
+		"images/orange-juice.jpeg",
+		"images/orange-apple.jpeg"
+	],
+	"reviews": [{
+		"stars": 5,
+		"body": "I love this thing",
+		"author": "JohnDoe@email.com",
+		"createdOn": 1482304272519
+	}, {
+		"stars": 3,
+		"body": "Apple juice was bland",
+		"author": "JaneSmith@email.com",
+		"createdOn": 1482103272519
+	}]
+}, {
+	"name": "Good tasing Soylent",
+	"price": 999.99,
+	"description": "The Soylent you know - now tasty!",
+	"canPurchase": true,
+	"soldOut": false,
+	"images": [],
+	"reviews": [{
+		"stars": 5,
+		"body": "A true innovation",
+		"author": "BillBob@email.com",
+		"createdOn": 1482304272519
+	}, {
+		"stars": 1,
+		"body": "Nope.",
+		"author": "BobBill@email.com",
+		"createdOn": 1482304212519
+	}]
+}]

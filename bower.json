@@ -1,0 +1,22 @@
+{
+  "name": "SimpleStore",
+  "authors": [
+    "Julio Gutierrez <juliog@knights.ucf.edu>"
+  ],
+  "description": "A simple front-end written in AngularJs",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.6.0",
+    "bootstrap": "^3.3.7"
+  }
+}

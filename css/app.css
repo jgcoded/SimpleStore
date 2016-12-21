@@ -1,0 +1,23 @@
+.ng-invalid.ng-dirty {
+    border-color: #FA787E;
+}
+
+.ng-valid.ng-dirty {
+  border-color: #78Fa89;  
+}
+
+ul {
+    list-style-type: none;
+}
+
+body {
+    margin: 10pt;
+}
+
+.gallery img {
+    width: 120pt;
+}
+
+.thumbnail > a > img {
+    width: 40pt;
+}
